@@ -1,3 +1,8 @@
+# Novica PDP Analysis
+
+## 📁 Repository Structure
+
+```text
 Novica-PDP-Analysis/
 │
 ├── Analysis_of_results.pdf        # Project presentation slides
@@ -8,3 +13,4 @@ Novica-PDP-Analysis/
 ├── OBJECTIVE_4_NOVICA.ipynb       # Ratings & Reviews Analysis
 ├── OBJECTIVE_5_NOVICA.ipynb       # Hidden Gems Identification
 └── OBJECTIVE_6_NOVICA.ipynb       # Keyword Impact Score & Gap Analysis
+```
