@@ -1,1 +1,55 @@
-https://docs.google.com/document/u/0/d/17_ekJIpKH2g8iPJQk0w9aKeR8FVm-qAhQz3-U1qO04o/mobilebasic
+# 🛍️ Enhancing E-Commerce Performance Through PDP Optimization
+### Insights from NOVICA's Amazon Listings
+
+**Team:** OptiMystics  
+**Members:** Vaibhavi Math, Keerthana Muruli, Lionel Mendonsa, 
+Mrinali Karthik and Tanish Pathak  
+**Tools Used:** Python, Statistical Analysis, Tableau
+
+
+## Project Overview
+Analyzed NOVICA's Amazon product detail pages (PDPs) to identify 
+which content attributes drive sales conversions across top and 
+bottom-selling SKUs. The study covered 5,000 SKUs (2,500 top-selling 
+and 2,500 low-selling) across categories like Jewellery, 
+Home Decor, and Sculpture.
+
+
+## Objectives
+- Impact of A/A+ Content and Media on Sales
+- Keyword Influence on Sales Performance
+- Influence of Videos on Sales
+- Ratings & Reviews Effect on Performance
+- Category-Level Content Differences
+- Identification of Hidden Gem SKUs
+
+
+## Key Findings
+- SKUs with A+ content show **~85% higher sales** 
+  compared to those without
+- Top sellers average **1.29 videos** vs 0.94 for bottom sellers 
+  (37% higher)
+- Identified **~750 "Hidden Gem" SKUs** — low sales but 
+  strong content profiles
+- High-impact keywords: **handmade, artisan, silver, sterling**
+- Content effectiveness **varies by category** — 
+  one strategy does not fit all
+
+
+## Methodology
+- Exploratory Data Analysis & Visualizations
+- Statistical Tests: t-tests, Mann–Whitney U, ANOVA, 
+  Pearson's Correlation
+- OLS Regression with HC3 Robust Standard Errors
+- Random Forest Regression for Keyword Impact Scoring
+- Hidden Gem Screening Logic
+
+
+## Recommendations
+1. Expand A+ content coverage across underperforming SKUs
+2. Set minimum media standards (≥8 images, ≥1 video for hero SKUs)
+3. Promote ~750 hidden gem SKUs through targeted advertising
+4. Use category-specific content playbooks
+5. Standardize keyword templates by category
+6. Treat ratings as hygiene, not a growth lever
+
